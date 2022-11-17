@@ -12,4 +12,5 @@ router.post("/albums",albumController.createNewAlbum)
 router.get("/albums/:id",albumController.getAlbumById)
 
 
+
 module.exports = router
