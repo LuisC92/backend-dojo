@@ -1,0 +1,27 @@
+{
+  "name": "backend-dojo",
+  "version": "1.0.0",
+  "description": "**!!! FIRST STEP REQUIRED BEFORE STARTING THE FIRST EXERCISE!!!!!**",
+  "main": "index.js",
+  "scripts": {
+    "dev":"nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisC92/backend-dojo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisC92/backend-dojo/issues"
+  },
+  "homepage": "https://github.com/LuisC92/backend-dojo#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.20"
+  }
+}
