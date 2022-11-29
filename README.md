@@ -3,9 +3,10 @@
 **!!! FIRST STEP REQUIRED BEFORE STARTING THE FIRST EXERCISE!!!!!**
 
 ---
-
-- Clone this project
-- Create a "lastname_firstname" branch, which will contain your progress (lastname_firstname will be replaced by your first and last name...)
+- One element of the group will:
+    - Clone this project.
+    - Create a using firstname of each element of the group: "firstname_firstname_firstname" branch.
+    - Use Live Share and invite the rest of elements of the group to is session.
 
 ## Prerequisites (tools installed)
 
@@ -24,14 +25,26 @@ The goal here is to create the backend with Node/Express.
 
 Here are the user stories that tell you which routes you will have to implement on your backend, and which SQL queries will have to be executed:
 
+Part 1 (15-11-2022):
+
+-- Album --
+- as a user, I want to be able to see all albums.
 - as a user, I want to be able to create a new album.
 - as a user, I want to be able to see an album by entering its id in the url.
+
+Part 2 (06-12-2022):
+
+-- Album --
+- as a user, I want to be able to modify an album.
+- as a user, I want to be able to delete an album.
+
+-- Track --
+- as a user, I want to be able to see all songs.
 - as a user, I want to create and assign a song to an album.
 - as a user, I want to list all the songs from an album.
-- as a user, I want to be able to delete an album.
-- as a user, I want to be able to modify an album.
-- as a user, I want to delete a song.
 - as a user, I want to edit a song from an album.
+- as a user, I want to delete a song.
+
 
 You will have to respect the following rules on your routes:
 
