@@ -32,7 +32,7 @@ Part 1 (15-11-2022):
 - as a user, I want to be able to create a new album.
 - as a user, I want to be able to see an album by entering its id in the url.
 
-Part 2 (06-12-2022):
+Part 2 (29-11-2022):
 
 -- Album --
 - as a user, I want to be able to modify an album.
